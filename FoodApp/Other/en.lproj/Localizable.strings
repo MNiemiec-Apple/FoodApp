@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  FoodApp
+
+  Created by Michał Niemiec on 27/05/2022.
+  
+*/
+
+"alert.mode.offline.title" = "You are in offline mode";
+"alert.mode.offline.message" = "Please go back to the matrix";
+"alert.action.ok" = "OK";
+
+"food.component.calories" = "Calories";
+"food.component.carbs" = "Carbs";
+"food.component.protein" = "Protein";
+"food.component.fat" = "Fat";
+"food.component.saturatedfat" = "Saturated fat";
+"food.component.unsaturatedfat" = "Unsaturated fat";
+"food.component.fiber" = "Fiber";
+"food.component.cholesterol" = "Cholesterol";
+"food.component.sugar" = "Sugar";
+"food.component.sodium" = "Sodium";
+"food.component.potassium" = "Potassium";
